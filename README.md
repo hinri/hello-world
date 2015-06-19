@@ -1,2 +1,3 @@
 # hello-world
-jus tto learn github
+just to learn github
+never use parts of this project, it is written for testing purposes
